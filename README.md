@@ -9,7 +9,6 @@
 <p style="text-align: center;"align="center">Location: Lyon, France</p></a>
 <p style="text-align: center;"align="center">hobbies: Discord<br></p>
 <p style="text-align: center;"align="center">status: student<br></p>
-<a href="https://discord.com/users/773630534030721044"> <p style="text-align: center;"align="center">Discord account<br></p></>
 
 
 
@@ -27,7 +26,7 @@
 </a>
 <br>
 
-# ![BeatZ's github stats](https://github-readme-stats.vercel.app/api?username=Vanity1337&show_icons=true&theme=tokyonight)
+# ![Vanity github stats](https://github-readme-stats.vercel.app/api?username=Vanity1337&show_icons=true&theme=tokyonight)
 <a href="https://github.com/notBeatZ?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanity1337&layout=compact&show_icons=true&&theme=tokyonight" />
 
