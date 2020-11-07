@@ -14,19 +14,10 @@
 <a href="https://discord.com/users/773630534030721044"> <p style="text-align: center;"align="center">My Discord Account<br></p></>
 
 
-<p align="center">
-<a href="https://discord.gg/uzi"> <p style="text-align: center;"align="center">Discord Server<br></p></>
-<p align="center">
-<p align="center">
 
-
-
-<p align="center">
-<a href="https://discord.gg/XrS9cn3"> <p style="text-align: center;"align="center">Discord Server<br></p></>
 <p align="center">
 <a href="https://discord.com/users/773630534030721044"> <p style="text-align: center;"align="center">My Discord Account #UPDATED OCT.3.2020<br></p></>
 <p align="center">
-<a href="https://www.youtube.com/channel/UCwTpoO1laiqjnLJ_td6pelg?view_as=subscriber"> <p style="text-align: center;"align="center">Youtube Channel<br></p></>
 
     
 <p align="center"> 
@@ -38,6 +29,3 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanity1337&theme=dark" alt="Avatar" style="border-radius: 100%;">
 </a><br>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vanity1337&repo=6ix&theme=dark" alt="Avatar" style="border-radius: 100%;">
-</a><br>
-</div>
