@@ -1,6 +1,6 @@
 <p align="center">
 <a>
-<img src="https://cdn.discordapp.com/attachments/741821931531141202/752949244599468152/circle-cropped_1.png" alt="Avatar" style="border-radius: 50%;">
+<img src="https://cdn.discordapp.com/attachments/774362411721424950/774717794930786344/circle-cropped.png" alt="Avatar" style="border-radius: 50%;">
 </a>
 
 </p>
@@ -11,13 +11,12 @@
 <p style="text-align: center;"align="center">Location: Lyon, France</p></a>
 <p style="text-align: center;"align="center">hobbies: Discord<br></p>
 <p style="text-align: center;"align="center">status: student<br></p>
-<a href="https://discord.com/users/773630534030721044"> <p style="text-align: center;"align="center">My Discord Account<br></p></>
+<a href="https://discord.com/users/773630534030721044"> <p style="text-align: center;"align="center">Discord:<br></p></>
 
 
 
 <p align="center">
-<a href="https://discord.com/users/773630534030721044"> <p style="text-align: center;"align="center">My Discord Account #UPDATED OCT.3.2020<br></p></>
-<p align="center">
+<a href="https://discord.com/users/773630534030721044"> <p style="text-align: center;"align="center">
 
     
 <p align="center"> 
