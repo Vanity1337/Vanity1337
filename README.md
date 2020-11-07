@@ -1,7 +1,5 @@
 <p align="center">
 <a>
-<img src="https://cdn.discordapp.com/attachments/774362411721424950/774717794930786344/circle-cropped.png" alt="Avatar" style="border-radius: 50%;">
-</a>
 
 </p>
 <div class="display">
@@ -11,7 +9,7 @@
 <p style="text-align: center;"align="center">Location: Lyon, France</p></a>
 <p style="text-align: center;"align="center">hobbies: Discord<br></p>
 <p style="text-align: center;"align="center">status: student<br></p>
-<a href="https://discord.com/users/773630534030721044"> <p style="text-align: center;"align="center">Discord:<br></p></>
+<a href="https://discord.com/users/773630534030721044"> <p style="text-align: center;"align="center">Discord account<br></p></>
 
 
 
@@ -22,9 +20,9 @@
 <p align="center"> 
 <h1 style="text-align: center;" align="center"> github status </h1>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vanity1337&show_icons=true&theme=dark" alt="Avatar" style="border-radius: 100%;">
+<img src="https://github-readme-stats.vercel.app/api?username=Vanity1337&show_icons=true&theme=blue" alt="Avatar" style="border-radius: 100%;">
 </a><br>
 <a>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanity1337&theme=dark" alt="Avatar" style="border-radius: 100%;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanity1337&theme=blue" alt="Avatar" style="border-radius: 100%;">
 </a><br>
