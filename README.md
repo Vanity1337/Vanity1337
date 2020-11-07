@@ -1,23 +1,3 @@
-<p align="center">
-<a>
-
-</p>
-<div class="display">
-<h1 style="text-align: center;" align="center"> Random shit about me </h1>
-<p style="text-align: center;"align="center">Name: Vito </p></a>
-<p style="text-align: center;"align="center">Age: 15<br></p>
-<p style="text-align: center;"align="center">Location: Lyon, France</p></a>
-<p style="text-align: center;"align="center">hobbies: Discord<br></p>
-<p style="text-align: center;"align="center">status: student<br></p>
-
-
-
-
-
-
-
-
-
 **Want to learn:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
