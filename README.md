@@ -20,7 +20,7 @@
 <p align="center"> 
 <h1 style="text-align: center;" align="center"> github status </h1>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vanity1337&show_icons=true&theme=dark" alt="Avatar" style="border-radius: 100%;">
+<img src="https://github-readme-stats.vercel.app/api?username=Vantiy1337&show_icons=true&theme=tokyonight" alt="Avatar" style="border-radius: 100%;">
 </a><br>
 <a>
 <p align="center">
