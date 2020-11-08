@@ -8,5 +8,4 @@
 
 # ![Vanity github stats](https://github-readme-stats.vercel.app/api?username=Vanity1337&show_icons=true&theme=tokyonight)
 <a href="https://github.com/Vanity1337?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanity1337&layout=compact&show_icons=true&&theme=tokyonight" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanity1337&layout=compact&show_icons=true&&theme=tokyonight" />
