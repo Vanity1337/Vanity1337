@@ -8,4 +8,4 @@
 
 # ![Visars github stats](https://github-readme-stats.vercel.app/api?username=vvisars&show_icons=true&theme=tokyonight)
 <a href="https://github.com/vvisars?tab=repositories">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvisars7&layout=compact&show_icons=true&&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvisars&layout=compact&show_icons=true&&theme=tokyonight" />
